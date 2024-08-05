@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Quick Note Taker",
+  "version": "1.0",
+  "description": "Take quick notes with current tab's title and URL",
+  "permissions": ["activeTab", "storage"],
+  "action": {
+    "default_popup": "index.html"
+  }
+}
