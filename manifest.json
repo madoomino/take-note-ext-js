@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Quick Note Taker",
+  "version": "1.0",
+  "description": "Take quick notes with current tab's title and URL",
+  "permissions": ["activeTab", "storage"],
+  "action": {
+    "default_popup": "index.html"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "ee2acbb07b0c71f5d22ae0459afa7abfe3d4bd61@mado.com"
+    }
+  }
+}
