@@ -23,6 +23,7 @@ Tested on thorium-browser & mercury-browser, on a linux machine.
 2. **For Chromium-based browsers (Chrome, Edge, Opera, etc.):**
 
    - Execute `git checkout chromium`
+   - Consider changing the extension's id.
    - Open the browser and navigate to `chrome://extensions/`.
    - Enable "Developer mode" in the top right corner.
    - Click "Load unpacked" and select the directory where you cloned the repository.
